@@ -1,0 +1,1218 @@
+.desktop-5 {
+    width: 1440px;
+    height: 2123px;
+    overflow: hidden;
+    background: #E4FFE0;
+    .navbar-section {
+        position: absolute;
+        top: 19px;
+        left: 50px;
+        width: 1210px;
+        height: 143px;
+        .frame-2 {
+            position: absolute;
+            top: 35px;
+            left: 699px;
+            width: 511px;
+            height: 30px;
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            align-items: center;
+            column-gap: 50px;
+            row-gap: 0px;
+            .home {
+                flex-shrink: 0;
+                width: 58px;
+                height: 30px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Poppins";
+                font-size: 20px;
+                line-height: 30px;
+                font-weight: 600;
+            }
+            .ai-tech {
+                flex-shrink: 0;
+                width: 83px;
+                height: 30px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Poppins";
+                font-size: 20px;
+                line-height: 30px;
+                font-weight: 600;
+            }
+            .e-comm {
+                flex-shrink: 0;
+                width: 91px;
+                height: 30px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Poppins";
+                font-size: 20px;
+                line-height: 30px;
+                font-weight: 600;
+                border-radius: 7px solid  #FF8357 ;
+                background: #FF8357;
+                border-radius: 3px;
+            }
+            .contact-us {
+                flex-shrink: 0;
+                width: 129px;
+                height: 30px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Poppins";
+                font-size: 20px;
+                line-height: 30px;
+                font-weight: 600;
+            }
+        }
+        .logo {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100px;
+            height: 143px;
+            .rectangle-1 {
+                position: absolute;
+                top: 15px;
+                left: 0px;
+                width: 100px;
+                height: 100px;
+                background: #FFFFFF;
+            }
+            .whatsapp-image-2025-02-18-at-61031-pm {
+                position: absolute;
+                top: 43px;
+                left: calc(100% - 100px + 0px);
+                width: 100px;
+                height: 100px;
+                object-fit: contain;
+            }
+            .ellipse-2 {
+                position: absolute;
+                top: -74px;
+                left: -74px;
+                width: 37.56px;
+                height: 37.56px;
+            }
+            .img-9098-removebg-preview-1 {
+                position: absolute;
+                top: 0px;
+                left: calc(100% - 100px + 0px);
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+            }
+            .ellipse-1 {
+                position: absolute;
+                top: -48px;
+                left: -89px;
+                width: 37.56px;
+                height: 37.56px;
+            }
+        }
+    }
+    .hero-section {
+        position: absolute;
+        top: 162px;
+        left: 50px;
+        width: 1339.07px;
+        height: 308px;
+        .find-the-best--nearest-dairy-farmers {
+            position: absolute;
+            top: 50px;
+            left: 0px;
+            color: black;
+            font-size: 36px;
+            font-style: Montserrat;
+            font-weight: 600;
+        }
+        .photo {
+            position: absolute;
+            top: 0px;
+            left: 724px;
+            width: 615.07px;
+            height: 308px;
+            .freepik-the-style-is-candid-image-photography-with-natural-5815-1 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 615.07px;
+                height: 307.53px;
+                filter: blur(4px);
+                border-radius: 10px;
+                object-fit: cover;
+            }
+            .freepik-the-style-is-candid-image-photography-with-natural-5815-2 {
+                position: absolute;
+                top: 0.47px;
+                left: 0px;
+                width: 615.07px;
+                height: 307.53px;
+                border-radius: 10px;
+                object-fit: cover;
+            }
+        }
+        .connect-directly-with-verified-local-dairy-farmers-get-fresh-products-delivered-to-your-doorstep {
+            position: absolute;
+            top: 140px;
+            left: 0px;
+            color: #000000;
+            font-size: 14px;
+            font-style: poppins; 
+            font-weight: 400;
+            
+        }
+        .location-bar {
+            position: absolute;
+            top: 220px;
+            left: 0px;
+            width: 354px;
+            height: 50px;
+            .rectangle-44 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 354px;
+                height: 50px;
+                border-radius: 5px;
+                border: 1px solid #000000;
+            }
+            .mdilocation {
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                width: 30px;
+                height: 30px;
+            }
+            .enter-your-location {
+                position: absolute;
+                top: 14px;
+                left: 50px;
+                width: 130px;
+                height: 21px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: var(--token-fontfamily-poppins-1);
+                font-style: var(--token-fontstyle-light);
+                font-size: var(--token-fontsize-14-1);
+                line-height: 21px;
+                font-weight: 300;
+            }
+        }
+        .find-farmer-button {
+            position: absolute;
+            top: 220px;
+            left: 374px;
+            width: 133px;
+            height: 50px;
+            .rectangle-45 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 133px;
+                height: 50px;
+                border-radius: 5px;
+                background: #FF8357;
+            }
+            .find-farmers {
+                position: absolute;
+                top: 13px;
+                left: 14px;
+                width: 105px;
+                height: 24px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Poppins";
+                font-size: 16px;
+                line-height: 24px;
+                font-weight: 600;
+            }
+        }
+    }
+    .farmer-profile {
+        position: absolute;
+        top: 519px;
+        left: 0px;
+        width: 1440px;
+        height: 360px;
+        .rectangle-47 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 1440px;
+            height: 360px;
+            background: rgba(217, 217, 217, 0.4);
+        }
+        .nearby-farmers {
+            position: absolute;
+            top: 53px;
+            left: 50px;
+            width: 166px;
+            height: 24px;
+            white-space: nowrap;
+            color: #000000;
+            font-family: var(--token-fontfamily-montserrat-1);
+            font-style: var(--token-fontstyle-semibold-1);
+            font-size: var(--token-fontsize-20);
+            line-height: 24px;
+            font-weight: 600;
+        }
+        .vedant-rvw {
+            position: absolute;
+            top: 107px;
+            left: 50px;
+            width: 336px;
+            height: 200px;
+            .rectangle-48 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 336px;
+                height: 200px;
+                border-radius: 10px;
+                background: #FFFFFF;
+                border: 1px solid #000000;
+            }
+            .group-10 {
+                position: absolute;
+                top: 5px;
+                left: 20px;
+                width: 246px;
+                height: 50px;
+                .image-17 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 50px;
+                    height: 50px;
+                    object-fit: cover;
+                }
+                .vedant-agnihotri {
+                    position: absolute;
+                    top: 5px;
+                    left: 67px;
+                    width: 179px;
+                    height: 24px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-montserrat-1);
+                    font-style: var(--token-fontstyle-semibold-1);
+                    font-size: var(--token-fontsize-20);
+                    line-height: 24px;
+                    font-weight: 600;
+                }
+            }
+            .group-20 {
+                position: absolute;
+                top: 37px;
+                left: 87px;
+                width: 130px;
+                height: 21px;
+                .vector-1 {
+                    position: absolute;
+                    top: 4.76%;
+                    left: 0%;
+                    right: 86.92%;
+                    bottom: 23.81%;
+                    width: calc(100% - 0% - 87.18%);
+                    height: calc(100% - 4.76% - 25.62%);
+                }
+                .text-48-124-reviews {
+                    position: absolute;
+                    top: 0px;
+                    left: 18px;
+                    width: 112px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+            }
+            .mile-grp {
+                position: absolute;
+                top: 68px;
+                left: 20px;
+                width: 121px;
+                height: 21px;
+                .text-23-miles-away {
+                    position: absolute;
+                    top: 0px;
+                    left: 20px;
+                    width: 101px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+                .mdilocation-1 {
+                    position: absolute;
+                    top: 3px;
+                    left: 0px;
+                    width: 15px;
+                    height: 15px;
+                }
+            }
+            .group-21 {
+                position: absolute;
+                top: 94px;
+                left: 18px;
+                width: 202px;
+                height: 21px;
+                .fresh-milk-cheese-yogurt {
+                    position: absolute;
+                    top: 0px;
+                    left: 25px;
+                    width: 177px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+                .bitcoin-iconsmilk-filled {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 20px;
+                    height: 20px;
+                }
+            }
+            .view-details-button {
+                position: absolute;
+                top: 136px;
+                left: 18px;
+                width: 300px;
+                height: 42px;
+                .rectangle-51 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 300px;
+                    height: 42px;
+                    border-radius: 5px;
+                    background: #000000;
+                }
+                .connect-us {
+                    position: absolute;
+                    top: 10px;
+                    left: 110px;
+                    width: 81px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: var(--token-fontfamily-poppins-2);
+                    font-style: var(--token-fontstyle-medium);
+                    font-size: var(--token-fontsize-14-2);
+                    line-height: 21px;
+                    font-weight: 600;
+                }
+            }
+        }
+        .somya-rvw {
+            position: absolute;
+            top: 107px;
+            left: 520px;
+            width: 336px;
+            height: 200px;
+            .rectangle-52 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 336px;
+                height: 200px;
+                border-radius: 10px;
+                background: #FFFFFF;
+                border: 1px solid #000000;
+            }
+            .group-22 {
+                position: absolute;
+                top: 37px;
+                left: 89px;
+                width: 128px;
+                height: 21px;
+                .vector-6 {
+                    position: absolute;
+                    top: 4.76%;
+                    left: 0%;
+                    right: 86.72%;
+                    bottom: 23.81%;
+                    width: calc(100% - 0% - 86.98%);
+                    height: calc(100% - 4.76% - 25.62%);
+                }
+                .text-47-94-reviews {
+                    position: absolute;
+                    top: 0px;
+                    left: 20px;
+                    width: 108px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+            }
+            .mile-grp-1 {
+                position: absolute;
+                top: 68px;
+                left: 20px;
+                width: 118px;
+                height: 21px;
+                .text-31-miles-away {
+                    position: absolute;
+                    top: 0px;
+                    left: 20px;
+                    width: 98px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+                .mdilocation-2 {
+                    position: absolute;
+                    top: 3px;
+                    left: 0px;
+                    width: 15px;
+                    height: 15px;
+                }
+            }
+            .group-23 {
+                position: absolute;
+                top: 99px;
+                left: 17px;
+                width: 212px;
+                height: 21px;
+                .organic-milk-butter-cream {
+                    position: absolute;
+                    top: 0px;
+                    left: 25px;
+                    width: 187px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+                .bitcoin-iconsmilk-filled-1 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 20px;
+                    height: 20px;
+                }
+            }
+            .view-details-button-1 {
+                position: absolute;
+                top: 136px;
+                left: 18px;
+                width: 300px;
+                height: 42px;
+                .rectangle-53 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 300px;
+                    height: 42px;
+                    border-radius: 5px;
+                    background: #000000;
+                }
+                .connect-us-1 {
+                    position: absolute;
+                    top: 10px;
+                    left: 110px;
+                    width: 81px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: var(--token-fontfamily-poppins-2);
+                    font-style: var(--token-fontstyle-medium);
+                    font-size: var(--token-fontsize-14-2);
+                    line-height: 21px;
+                    font-weight: 600;
+                }
+            }
+            .group-11 {
+                position: absolute;
+                top: 5px;
+                left: 20px;
+                width: 199px;
+                height: 50px;
+                .image-18 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 50px;
+                    height: 50px;
+                    object-fit: cover;
+                }
+                .somya-tyagi {
+                    position: absolute;
+                    top: 5px;
+                    left: 67px;
+                    width: 132px;
+                    height: 24px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-montserrat-1);
+                    font-style: var(--token-fontstyle-semibold-1);
+                    font-size: var(--token-fontsize-20);
+                    line-height: 24px;
+                    font-weight: 600;
+                }
+            }
+        }
+        .mukul-revw {
+            position: absolute;
+            top: 107px;
+            left: 990px;
+            width: 336px;
+            height: 200px;
+            .rectangle-50 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 336px;
+                height: 200px;
+                border-radius: 10px;
+                background: #FFFFFF;
+                border: 1px solid #000000;
+            }
+            .group-24 {
+                position: absolute;
+                top: 37px;
+                left: 87px;
+                width: 135px;
+                height: 21px;
+                .vector-11 {
+                    position: absolute;
+                    top: 9.52%;
+                    left: 0%;
+                    right: 87.41%;
+                    bottom: 19.05%;
+                    width: calc(100% - 0% - 87.65%);
+                    height: calc(100% - 9.52% - 20.86%);
+                }
+                .text-49-156-reviews {
+                    position: absolute;
+                    top: 0px;
+                    left: 22px;
+                    width: 113px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+            }
+            .mile-grp-2 {
+                position: absolute;
+                top: 68px;
+                left: 20px;
+                width: 122px;
+                height: 21px;
+                .text-45-miles-away {
+                    position: absolute;
+                    top: 0px;
+                    left: 20px;
+                    width: 102px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+                .mdilocation-3 {
+                    position: absolute;
+                    top: 3px;
+                    left: 0px;
+                    width: 15px;
+                    height: 15px;
+                }
+            }
+            .group-25 {
+                position: absolute;
+                top: 99px;
+                left: 18px;
+                width: 227px;
+                height: 21px;
+                .premium-milk-artisan-cheese {
+                    position: absolute;
+                    top: 0px;
+                    left: 25px;
+                    width: 202px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #000000;
+                    font-family: var(--token-fontfamily-poppins-1);
+                    font-style: var(--token-fontstyle-light);
+                    font-size: var(--token-fontsize-14-1);
+                    line-height: 21px;
+                    font-weight: 300;
+                }
+                .bitcoin-iconsmilk-filled-2 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 20px;
+                    height: 20px;
+                }
+            }
+            .view-details-button-2 {
+                position: absolute;
+                top: 136px;
+                left: 18px;
+                width: 300px;
+                height: 42px;
+                .rectangle-54 {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 300px;
+                    height: 42px;
+                    border-radius: 5px;
+                    background: #000000;
+                }
+                .connect-us-2 {
+                    position: absolute;
+                    top: 10px;
+                    left: 110px;
+                    width: 81px;
+                    height: 21px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: var(--token-fontfamily-poppins-2);
+                    font-style: var(--token-fontstyle-medium);
+                    font-size: var(--token-fontsize-14-2);
+                    line-height: 21px;
+                    font-weight: 600;
+                }
+            }
+            .group-26 {
+                position: absolute;
+                top: 8px;
+                left: 20px;
+                width: 215px;
+                height: 50px;
+                .group-12 {
+                    position: absolute;
+                    top: 2px;
+                    left: 67px;
+                    width: 148px;
+                    height: 24px;
+                    .mukul-parmar {
+                        position: absolute;
+                        top: 0px;
+                        left: 0px;
+                        width: 148px;
+                        height: 24px;
+                        white-space: nowrap;
+                        color: #000000;
+                        font-family: var(--token-fontfamily-montserrat-1);
+                        font-style: var(--token-fontstyle-semibold-1);
+                        font-size: var(--token-fontsize-20);
+                        line-height: 24px;
+                        font-weight: 600;
+                    }
+                }
+                .mukul-logo {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 50px;
+                    height: 50px;
+                    .ellipse-3 {
+                        position: absolute;
+                        top: 0px;
+                        left: 0px;
+                        width: 50px;
+                        height: 50px;
+                    }
+                    .image-22 {
+                        position: absolute;
+                        top: 0px;
+                        left: 0px;
+                        width: 50px;
+                        height: 50px;
+                        object-fit: contain;
+                    }
+                }
+            }
+        }
+    }
+    .map-section {
+        position: absolute;
+        top: 879px;
+        left: 0px;
+        width: 1440px;
+        height: 629px;
+        .rectangle-55 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 1440px;
+            height: 629px;
+            background: #FFFFFF;
+        }
+        .find-farmers-near-you {
+            position: absolute;
+            top: 52px;
+            left: 50px;
+            width: 237px;
+            height: 24px;
+            white-space: nowrap;
+            color: #000000;
+            font-family: var(--token-fontfamily-montserrat-1);
+            font-style: var(--token-fontstyle-semibold-1);
+            font-size: var(--token-fontsize-20);
+            line-height: 24px;
+            font-weight: 600;
+        }
+        .image-23 {
+            position: absolute;
+            top: 111px;
+            left: calc(100% - 1440px + 50.63px);
+            width: 1338.73px;
+            height: 467px;
+            object-fit: cover;
+        }
+        .gislocation-poi {
+            position: absolute;
+            top: 307px;
+            left: calc(100% - 1440px + 690px);
+            width: 60px;
+            height: 60px;
+        }
+    }
+    .vedant-map {
+        position: absolute;
+        top: 1133px;
+        left: 826px;
+        width: 60px;
+        height: 60px;
+        overflow: hidden;
+        .vedant-map-1 {
+            position: absolute;
+            top: 0px;
+            left: 13.33%;
+            right: 11.67%;
+            width: calc(100% - 13.33% - 11.67%);
+            height: 60px;
+            .vector-18 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+            }
+            .image-19 {
+                position: absolute;
+                top: 7px;
+                left: 15.56%;
+                right: 17.78%;
+                width: calc(100% - 15.56% - 17.78%);
+                height: 30px;
+                object-fit: cover;
+            }
+        }
+    }
+    .somya-map {
+        position: absolute;
+        top: 1080px;
+        left: 505px;
+        width: 60px;
+        height: 60px;
+        overflow: hidden;
+        .vedant-map-2 {
+            position: absolute;
+            top: 0px;
+            left: 13.33%;
+            right: 11.67%;
+            width: calc(100% - 13.33% - 11.67%);
+            height: 60px;
+            .vector-19 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+            }
+            .image-20 {
+                position: absolute;
+                top: 7px;
+                left: 15.56%;
+                right: 17.78%;
+                width: calc(100% - 15.56% - 17.78%);
+                height: 30px;
+                object-fit: cover;
+            }
+        }
+    }
+    .mukul-map {
+        position: absolute;
+        top: 1334px;
+        left: 478px;
+        width: 60px;
+        height: 60px;
+        overflow: hidden;
+        .vedant-map-3 {
+            position: absolute;
+            top: 0px;
+            left: 13.33%;
+            right: 11.67%;
+            width: calc(100% - 13.33% - 11.67%);
+            height: 60px;
+            .vector-20 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+            }
+            .ellipse-4 {
+                position: absolute;
+                top: 7px;
+                left: 15.56%;
+                right: 17.78%;
+                height: 30px;
+                width: calc(100% - 15.56% - 17.78%);
+            }
+            .image-24 {
+                position: absolute;
+                top: 7px;
+                left: 15.56%;
+                right: 17.78%;
+                width: calc(100% - 15.56% - 17.78%);
+                height: 30px;
+                object-fit: contain;
+            }
+        }
+    }
+    .farmer-reg {
+        position: absolute;
+        top: 1508px;
+        left: 0px;
+        width: 1440px;
+        height: 275px;
+        .rectangle-56 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 1440px;
+            height: 275px;
+            background: rgba(217, 217, 217, 0.4);
+        }
+        .are-you-a-dairy-farmer {
+            position: absolute;
+            top: 60px;
+            left: calc(100% - 1440px + 595px);
+            width: 251px;
+            height: 24px;
+            white-space: nowrap;
+            color: #000000;
+            font-family: var(--token-fontfamily-montserrat-1);
+            font-style: var(--token-fontstyle-semibold-1);
+            font-size: var(--token-fontsize-20);
+            line-height: 24px;
+            font-weight: 600;
+        }
+        .join-our-platform-to-connect-with-local-customers-and-grow-your-business {
+            position: absolute;
+            top: 94px;
+            left: calc(100% - 1440px + 461px);
+            width: 519px;
+            height: 21px;
+            white-space: nowrap;
+            color: #000000;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .register-button {
+            position: absolute;
+            top: 165px;
+            left: calc(100% - 1440px + 620px);
+            width: 200px;
+            height: 50px;
+            .rectangle-57 {
+                position: absolute;
+                top: 0px;
+                left: calc(100% - 200px + 0px);
+                width: 200px;
+                height: 50px;
+                border-radius: 5px;
+                background: #000000;
+            }
+            .register-now {
+                position: absolute;
+                top: 14px;
+                left: calc(100% - 200px + 54px);
+                width: 92px;
+                height: 21px;
+                white-space: nowrap;
+                color: #FFFFFF;
+                font-family: var(--token-fontfamily-poppins-2);
+                font-style: var(--token-fontstyle-medium);
+                font-size: var(--token-fontsize-14-2);
+                line-height: 21px;
+                font-weight: 600;
+            }
+        }
+    }
+    .cta-section {
+        position: absolute;
+        top: 1783px;
+        left: 0px;
+        width: 1440px;
+        height: 340px;
+        .rectangle-24 {
+            position: absolute;
+            top: 0px;
+            left: calc(100% - 1440px + 0px);
+            width: 1440px;
+            height: 340px;
+            background: rgba(17, 24, 39, 0.8);
+        }
+        .home-1 {
+            position: absolute;
+            top: 73px;
+            left: 481px;
+            width: 42px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .ai-tech-1 {
+            position: absolute;
+            top: 109px;
+            left: 481px;
+            width: 51px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .e-commerce {
+            position: absolute;
+            top: 145px;
+            left: 481px;
+            width: 93px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .contact {
+            position: absolute;
+            top: 181px;
+            left: 481px;
+            width: 57px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .case-studies {
+            position: absolute;
+            top: 145px;
+            left: 802px;
+            width: 92px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .research {
+            position: absolute;
+            top: 109px;
+            left: 802px;
+            width: 66px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .blog {
+            position: absolute;
+            top: 73px;
+            left: 802px;
+            width: 31px;
+            height: 21px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .connect {
+            position: absolute;
+            top: 34px;
+            left: 1109px;
+            width: 88px;
+            height: 24px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Montserrat";
+            font-size: 20px;
+            line-height: 24px;
+            font-weight: 600;
+        }
+        .resources {
+            position: absolute;
+            top: 34px;
+            left: 802px;
+            width: 107px;
+            height: 24px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Montserrat";
+            font-size: 20px;
+            line-height: 24px;
+            font-weight: 600;
+        }
+        .logo-1 {
+            position: absolute;
+            top: 19px;
+            left: 50px;
+            width: 100px;
+            height: 143px;
+            .rectangle-2 {
+                position: absolute;
+                top: 15px;
+                left: 0px;
+                width: 100px;
+                height: 100px;
+                background: #FFFFFF;
+            }
+            .whatsapp-image-2025-02-18-at-61031-pm-1 {
+                position: absolute;
+                top: 43px;
+                left: calc(100% - 100px + 0px);
+                width: 100px;
+                height: 100px;
+                object-fit: contain;
+            }
+            .ellipse-5 {
+                position: absolute;
+                top: -74px;
+                left: -74px;
+                width: 37.56px;
+                height: 37.56px;
+            }
+            .img-9098-removebg-preview-2 {
+                position: absolute;
+                top: 0px;
+                left: calc(100% - 100px + 0px);
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+            }
+            .ellipse-6 {
+                position: absolute;
+                top: -48px;
+                left: -89px;
+                width: 37.56px;
+                height: 37.56px;
+            }
+        }
+        .preserving-indigenous-cow-breeds-for-a-sustainable-future {
+            position: absolute;
+            top: 162px;
+            left: 50px;
+            width: 276px;
+            height: 42px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-14);
+            line-height: 21px;
+            font-weight: 400;
+        }
+        .quick-links {
+            position: absolute;
+            top: 34px;
+            left: 481px;
+            width: 121px;
+            height: 24px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Montserrat";
+            font-size: 20px;
+            line-height: 24px;
+            font-weight: 600;
+        }
+        .image-21 {
+            position: absolute;
+            top: 72px;
+            left: 1109px;
+            width: 102px;
+            height: 24px;
+            object-fit: cover;
+        }
+    }
+}

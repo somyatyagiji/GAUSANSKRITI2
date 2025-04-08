@@ -30,19 +30,22 @@
                 font-family: "Poppins";
                 font-size: 20px;
                 line-height: 30px;
-                font-weight: 500;
+                font-weight: 600;
             
             }
             .ai-tech {
                 flex-shrink: 0;
-                width: 85px;
+                width: 90px;
                 height: 30px;
                 white-space: nowrap;
                 color: #000000;
                 font-family: "Poppins";
                 font-size: 20px;
                 line-height: 30px;
-                font-weight: 700;
+                font-weight: 600;
+                border-radius: 7px solid  #FF8357 ;
+                background: #FF8357;
+                border-radius: 3px;
             }
             .e-comm {
                 flex-shrink: 0;
@@ -53,7 +56,7 @@
                 font-family: "Poppins";
                 font-size: 20px;
                 line-height: 30px;
-                font-weight: 500;
+                font-weight: 600;
             }
             .contact-us {
                 flex-shrink: 0;
@@ -64,7 +67,7 @@
                 font-family: "Poppins";
                 font-size: 20px;
                 line-height: 30px;
-                font-weight: 500;
+                font-weight: 600;
             }
         }
         .logo {
